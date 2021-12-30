@@ -35,21 +35,20 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="Wedding Invitation (Daniel & Sandrina)">
     <meta property="og:description" content="Invitation">
-    <meta property="og:url" content="https://kondangankuy.com/mempelaiwanita-pria-wedding/">
+    <meta property="og:url" content="">
     <meta property="og:site_name" content="KondanganKuy Indonesia">
     <meta property="article:tag" content="protokol english">
-    <meta property="article:section" content="Desain 16 - Demo">
     <meta property="og:updated_time" content="2021-12-16T13:55:41+07:00">
-    <meta property="og:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg">
-    <meta property="og:image:secure_url" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg">
+    {{-- <meta property="og:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
+    {{-- <meta property="og:image:secure_url" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     <meta property="og:image:width" content="853">
     <meta property="og:image:height" content="1280">
     <meta property="og:image:alt" content="Preview Paket Daisy &#8211; Creamy Rustic">
     <meta property="og:image:type" content="image/jpeg">
-    <meta name="twitter:card" content="summary_large_image">
+    {{-- <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Wedding Invitation (Daniel & Sandrina)">
-    <meta name="twitter:description" content="Invitation">
-    <meta name="twitter:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg">
+    <meta name="twitter:description" content="Invitation"> --}}
+    {{-- <meta name="twitter:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     <!-- /Rank Math WordPress SEO plugin -->
 
     {{-- <link rel='dns-prefetch' href='//fonts.googleapis.com' />
