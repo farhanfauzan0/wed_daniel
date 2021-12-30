@@ -34,16 +34,18 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Wedding Invitation (Daniel & Sandrina)">
-    <meta property="og:description" content="Invitation">
+    <meta property="og:description" content="Sandrina & Daniel">
     <meta property="og:url" content="">
-    <meta property="og:site_name" content="KondanganKuy Indonesia">
+    <meta property="og:site_name" content="Sandrina & Daniel">
     <meta property="article:tag" content="protokol english">
     <meta property="og:updated_time" content="2021-12-16T13:55:41+07:00">
+    <meta property="og:image" content="{{ asset('img/g3.jpeg') }}">
+    <meta property="og:image:secure_url" content="{{ asset('img/g3.jpeg') }}">
     {{-- <meta property="og:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     {{-- <meta property="og:image:secure_url" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     <meta property="og:image:width" content="853">
     <meta property="og:image:height" content="1280">
-    <meta property="og:image:alt" content="Preview Paket Daisy &#8211; Creamy Rustic">
+    <meta property="og:image:alt" content="Sandrina & Daniel">
     <meta property="og:image:type" content="image/jpeg">
     {{-- <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Wedding Invitation (Daniel & Sandrina)">
