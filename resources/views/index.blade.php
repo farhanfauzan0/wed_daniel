@@ -2032,7 +2032,7 @@ flexibility(document.documentElement);
                                                 <div id="audio-container" class="audio-box">
 
                                                     <audio id="song" loop>
-                                                        <source src="{{ asset('cari.mp3') }}" type="audio/mp3">
+                                                        <source src="{{ asset('adera.mp3') }}" type="audio/mp3">
                                                     </audio>
 
                                                     <div class="elementor-icon-wrapper" id="unmute-sound" style="display: none;">
@@ -2377,7 +2377,7 @@ flexibility(document.documentElement);
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-text-editor elementor-clearfix">
                                                                             <p>Putra Ketiga dari<br />Bapak.
-                                                                                Edi Ratag (Alm)<br />&amp;<br />Ibu. Icih</p>
+                                                                                Edi Ratag (Alm)<br />&amp;<br />Ibu. Icih Sukarsih</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
