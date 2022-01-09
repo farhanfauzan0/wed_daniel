@@ -39,8 +39,8 @@
     <meta property="og:site_name" content="Sandrina & Daniel">
     <meta property="article:tag" content="protokol english">
     <meta property="og:updated_time" content="2021-12-16T13:55:41+07:00">
-    <meta property="og:image" content="{{ asset('img/g3.jpeg') }}">
-    <meta property="og:image:secure_url" content="{{ asset('img/g3.jpeg') }}">
+    <meta property="og:image" content="{{ asset('img/cov.jpg') }}">
+    <meta property="og:image:secure_url" content="{{ asset('img/cov.jpg') }}">
     {{-- <meta property="og:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     {{-- <meta property="og:image:secure_url" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     <meta property="og:image:width" content="853">
@@ -3059,6 +3059,16 @@ flexibility(document.documentElement);
                                                                                 <div class="elementor-gallery-item__overlay">
                                                                                 </div>
                                                                             </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="{{ asset('img/g7.jpeg') }}" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-d515943" data-elementor-lightbox-title="4">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="{{ asset('img/g7.jpeg') }}" data-width="768" data-height="512" alt=""></div>
+                                                                                <div class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
+                                                                            <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="{{ asset('img/g8.jpeg') }}" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-d515943" data-elementor-lightbox-title="4">
+                                                                                <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="{{ asset('img/g8.jpeg') }}" data-width="768" data-height="512" alt=""></div>
+                                                                                <div class="elementor-gallery-item__overlay">
+                                                                                </div>
+                                                                            </a>
 
                                                                         </div>
                                                                     </div>
@@ -3837,7 +3847,7 @@ flexibility(document.documentElement);
                                         <div class="elementor-element elementor-element-8cdb2a2 wdp-sticky-section-no elementor-widget elementor-widget-weddingpress-wellcome" data-id="8cdb2a2" data-element_type="widget" data-widget_type="weddingpress-wellcome.default">
                                             <div class="elementor-widget-container">
 
-                                                <div class="modalx" data-sampul='{{ asset('img/g3.jpeg') }}'>
+                                                <div class="modalx" data-sampul='{{ asset('img/cov.jpg') }}'>
 
                                                     <div class="overlayy"></div>
                                                     <div class="content-modalx">
