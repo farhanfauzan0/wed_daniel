@@ -2801,8 +2801,8 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-3de553b wdp-sticky-section-no elementor-widget elementor-widget-text-editor" data-id="3de553b" data-element_type="widget" data-widget_type="text-editor.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                                            <p><b>Before Our Special Wedding Day<br />We
-                                                                                    hope you can be part of it</b></p>
+                                                                            <p><b>Menuju Hari Istimewa Kami<br />dan
+                                                                                    kami berharap Bapak/Ibu/Saudara/i menjadi bagian dari hari istimewa kami</b></p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
