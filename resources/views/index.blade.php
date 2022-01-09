@@ -3847,7 +3847,7 @@ flexibility(document.documentElement);
                                         <div class="elementor-element elementor-element-8cdb2a2 wdp-sticky-section-no elementor-widget elementor-widget-weddingpress-wellcome" data-id="8cdb2a2" data-element_type="widget" data-widget_type="weddingpress-wellcome.default">
                                             <div class="elementor-widget-container">
 
-                                                <div class="modalx" data-sampul='{{ asset('img/cov2.jpeg') }}'>
+                                                <div class="modalx" data-sampul='{{ asset('img/cov2.jpeg') }}' style="background-size: auto">
 
                                                     <div class="overlayy"></div>
                                                     <div class="content-modalx">
