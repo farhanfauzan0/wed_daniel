@@ -39,8 +39,8 @@
     <meta property="og:site_name" content="Sandrina & Daniel">
     <meta property="article:tag" content="protokol english">
     <meta property="og:updated_time" content="2021-12-16T13:55:41+07:00">
-    <meta property="og:image" content="{{ asset('img/cov.jpg') }}">
-    <meta property="og:image:secure_url" content="{{ asset('img/cov.jpg') }}">
+    <meta property="og:image" content="{{ asset('img/cov2.jpeg') }}">
+    <meta property="og:image:secure_url" content="{{ asset('img/cov2.jpeg') }}">
     {{-- <meta property="og:image" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     {{-- <meta property="og:image:secure_url" content="https://kondangankuy.com/wp-content/uploads/2021/01/wenny-william-cover.jpg"> --}}
     <meta property="og:image:width" content="853">
